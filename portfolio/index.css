@@ -1,0 +1,29 @@
+nav {
+  text-decoration: none;
+  color: black;
+  float: right;
+  position: relative;
+}
+
+ul {
+  list-style: none;
+}
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: grey;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+
+}
